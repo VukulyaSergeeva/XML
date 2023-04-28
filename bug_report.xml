@@ -1,1 +1,14 @@
+bug_report
+Id:2
+Enviroment:Windows 11 Pro x64 22H2, Chrome Версия 112.0
+Title:Link "Complaints Procedure (CCAU)"
+ is not opened document in the footer main page 
+Steps to reproduce:
 
+1. Navigate to capital.com
+2.Scroll down to the footer
+3.Select link "Complaints Procedure (CCSU)"
+
+Expected Result:Document "Complaints Procedure (CCSU)"
+Actual Result:Empty window is displayed
+Bug started:@Victoria_Sergeeva
